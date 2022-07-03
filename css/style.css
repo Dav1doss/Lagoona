@@ -302,7 +302,7 @@ body {
 }
 
 .right {
-  background-image: url(/img/3.jpg);
+  background-image: url("../img/3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
